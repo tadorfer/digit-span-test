@@ -19,5 +19,5 @@ $ python3 digitspantest_fw.py
 
 <br>
 
-![](digitspantest.gif)
+![](digitspantest_fw.gif)
 
