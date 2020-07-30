@@ -10,7 +10,7 @@ sequence will increase by 1. You can enter three incorrect sequences before the
 test gets terminated. We will start out with 3 digits.
 \nClick 'Start' or press 'Enter' if you are ready to start the test.'''
 
-title = 'Digit Span Test for Working Memory Assessment'
+title = 'Digit Span Test for Working Memory Evaluation'
 
 
 def startTest(*args):
