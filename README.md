@@ -9,9 +9,9 @@ Specifically, the subject will be presented with a sequence of digits (starting 
 Download the file "digitspantest_fw.py", and execute it as follows:
 
 ```
-$ python3 digitspantest_fw.py
+$ python digitspantest_fw.py
 ```
 
 <br>
 
-![](digitspantest_fw.gif)
+![](demo.gif)
